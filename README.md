@@ -26,7 +26,7 @@ This project is a simple GUI application for encrypting and decrypting messages 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/caesar-cipher-tool.git
+git clone https://github.com/Belard4l/PRODIGY_CS_01.git
 ```
 
 ## run code.py
